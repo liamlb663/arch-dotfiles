@@ -1,0 +1,9 @@
+[2022-10-13 17:03:37.523] [sharedprocess] [info] Starting worker process with pid 311435 (type: fileWatcher, window: 1).
+[2022-10-13 17:03:42.510] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-10-13 17:03:42.696] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-10-13 17:03:43.024] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-10-13 17:03:45.418] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/liaml/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.10.20
+[2022-10-13 17:03:51.498] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.ed7efab0-31aa-4b6e-a3b3-c327b6427c62: ms-python.vscode-pylance
+[2022-10-13 17:03:51.624] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/ms-python.vscode-pylance-2022.10.20
+[2022-10-13 17:03:51.632] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-10-13 17:03:51.685] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

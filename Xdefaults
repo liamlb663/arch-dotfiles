@@ -1,0 +1,7 @@
+! URxvt Appearance
+*font:             xft:Fira Code Retina:size=11
+*boldFont:         xft:Fira Code:style=Bold:size=11
+*italicFont:       xft:Fira Code Retina:size=11
+*boldItalicFont:   xft:Fira Code:style=Bold:size=11
+*scrollBar: false
+

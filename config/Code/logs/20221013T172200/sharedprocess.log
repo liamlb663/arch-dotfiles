@@ -1,0 +1,2 @@
+[2022-10-13 17:22:03.751] [sharedprocess] [info] Starting worker process with pid 330332 (type: fileWatcher, window: 1).
+[2022-10-13 17:22:04.785] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/liaml/.vscode/extensions/ms-python.vscode-pylance-2022.10.10

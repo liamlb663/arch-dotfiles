@@ -1,0 +1,104 @@
+[2022-10-12 15:17:32.864] [sharedprocess] [info] Starting worker process with pid 105514 (type: fileWatcher, window: 1).
+[2022-10-12 15:18:19.234] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-10-12 15:18:19.350] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-10-12 15:18:21.061] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-10-12 15:18:21.329] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-10-12 15:18:21.859] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-10-12 15:18:22.423] [sharedprocess] [info] Getting Manifest... ms-toolsai.vscode-jupyter-cell-tags
+[2022-10-12 15:18:22.797] [sharedprocess] [info] Getting Manifest... ms-toolsai.vscode-jupyter-slideshow
+[2022-10-12 15:18:23.201] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-10-12 15:18:23.891] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter ms-python.python
+[2022-10-12 15:18:23.893] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap ms-python.python
+[2022-10-12 15:18:23.896] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers ms-python.python
+[2022-10-12 15:18:23.899] [sharedprocess] [info] Installing extension: ms-toolsai.vscode-jupyter-cell-tags ms-python.python
+[2022-10-12 15:18:23.903] [sharedprocess] [info] Installing extension: ms-toolsai.vscode-jupyter-slideshow ms-python.python
+[2022-10-12 15:18:23.908] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance ms-python.python
+[2022-10-12 15:18:28.102] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/liaml/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-10-12 15:18:28.156] [sharedprocess] [info] Downloaded extension: ms-toolsai.vscode-jupyter-cell-tags /home/liaml/.config/Code/CachedExtensionVSIXs/ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+[2022-10-12 15:18:28.631] [sharedprocess] [info] Downloaded extension: ms-toolsai.vscode-jupyter-slideshow /home/liaml/.config/Code/CachedExtensionVSIXs/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+[2022-10-12 15:18:28.786] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.e16d401f-f9cb-4930-ac74-9eab71867cf2: ms-toolsai.jupyter-keymap
+[2022-10-12 15:18:28.868] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-10-12 15:18:28.917] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-10-12 15:18:30.479] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/liaml/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.9.1202862440
+[2022-10-12 15:18:30.522] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.1a36f8bf-771f-4730-a520-07f9ea2c58d1: ms-toolsai.vscode-jupyter-cell-tags
+[2022-10-12 15:18:30.524] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.8d75c988-3094-4705-9f3d-b929e006889f: ms-toolsai.vscode-jupyter-slideshow
+[2022-10-12 15:18:30.765] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/liaml/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.10
+[2022-10-12 15:18:30.798] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/ms-toolsai.vscode-jupyter-slideshow-0.1.5
+[2022-10-12 15:18:30.799] [sharedprocess] [info] Downloaded extension: ms-python.python /home/liaml/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.16.0
+[2022-10-12 15:18:30.800] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/ms-toolsai.vscode-jupyter-cell-tags-0.1.6
+[2022-10-12 15:18:30.827] [sharedprocess] [info] Extracting completed. ms-toolsai.vscode-jupyter-slideshow
+[2022-10-12 15:18:30.829] [sharedprocess] [info] Extracting completed. ms-toolsai.vscode-jupyter-cell-tags
+[2022-10-12 15:18:38.281] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.0cad3ef1-b57a-4964-8634-8e04e9e2e641: ms-toolsai.jupyter-renderers
+[2022-10-12 15:18:38.471] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.10
+[2022-10-12 15:18:38.493] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-10-12 15:18:44.859] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.06be3459-b8f2-4fcf-a2a8-d1cb086df47e: ms-toolsai.jupyter
+[2022-10-12 15:18:45.031] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/ms-toolsai.jupyter-2022.9.1202862440
+[2022-10-12 15:18:45.261] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-10-12 15:18:52.450] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.947b6d17-5717-4a3b-8570-58cf83143692: ms-python.python
+[2022-10-12 15:18:52.511] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/ms-python.python-2022.16.0
+[2022-10-12 15:18:52.529] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-10-12 15:18:55.857] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/liaml/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.10.10
+[2022-10-12 15:19:08.085] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.39821524-997b-4305-9f10-e1d67e4cb4ad: ms-python.vscode-pylance
+[2022-10-12 15:19:08.120] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/ms-python.vscode-pylance-2022.10.10
+[2022-10-12 15:19:08.123] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-10-12 15:19:08.127] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-10-12 15:19:08.127] [sharedprocess] [info] Extension installed successfully: ms-toolsai.vscode-jupyter-slideshow
+[2022-10-12 15:19:08.128] [sharedprocess] [info] Extension installed successfully: ms-toolsai.vscode-jupyter-cell-tags
+[2022-10-12 15:19:08.128] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-10-12 15:19:08.128] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-10-12 15:19:08.128] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-10-12 15:19:08.128] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-10-12 15:57:07.864] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-12 15:57:28.876] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-10-12 15:57:28.949] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2022-10-12 15:57:38.094] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /home/liaml/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-1.12.4-linux-x64
+[2022-10-12 15:57:44.962] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.d62e6454-0d1c-402a-997e-6edcdcef80ff: ms-vscode.cpptools
+[2022-10-12 15:57:45.044] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64
+[2022-10-12 15:57:45.107] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2022-10-12 15:57:45.147] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-10-12 16:49:17.807] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
+[2022-10-12 16:59:27.561] [sharedprocess] [info] Getting Manifest... visualstudioexptteam.vscodeintellicode
+[2022-10-12 16:59:27.681] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2022-10-12 16:59:29.189] [sharedprocess] [info] Getting Manifest... visualstudioexptteam.intellicode-api-usage-examples
+[2022-10-12 16:59:30.435] [sharedprocess] [info] Installing extension: visualstudioexptteam.intellicode-api-usage-examples visualstudioexptteam.vscodeintellicode
+[2022-10-12 16:59:32.381] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.intellicode-api-usage-examples /home/liaml/.config/Code/CachedExtensionVSIXs/visualstudioexptteam.intellicode-api-usage-examples-0.2.5
+[2022-10-12 16:59:35.170] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.202e429d-f3f9-4c34-a032-9ee82e8d2387: visualstudioexptteam.intellicode-api-usage-examples
+[2022-10-12 16:59:35.266] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/visualstudioexptteam.intellicode-api-usage-examples-0.2.5
+[2022-10-12 16:59:35.278] [sharedprocess] [info] Extracting completed. visualstudioexptteam.intellicode-api-usage-examples
+[2022-10-12 16:59:42.347] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /home/liaml/.config/Code/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.28
+[2022-10-12 16:59:54.725] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.877f7b27-1d38-453c-b389-85781b3805ba: visualstudioexptteam.vscodeintellicode
+[2022-10-12 16:59:54.812] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.28
+[2022-10-12 16:59:54.818] [sharedprocess] [info] Extracting completed. visualstudioexptteam.vscodeintellicode
+[2022-10-12 16:59:54.824] [sharedprocess] [info] Extension installed successfully: visualstudioexptteam.intellicode-api-usage-examples
+[2022-10-12 16:59:54.824] [sharedprocess] [info] Extension installed successfully: visualstudioexptteam.vscodeintellicode
+[2022-10-12 17:06:11.231] [sharedprocess] [info] Worker process with pid 105514 terminated normally (type: fileWatcher, window: 1).
+[2022-10-12 17:06:12.561] [sharedprocess] [info] Starting worker process with pid 191192 (type: fileWatcher, window: 1).
+[2022-10-12 17:06:53.127] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+[2022-10-12 17:06:53.177] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-extension-pack
+[2022-10-12 17:06:54.810] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools
+[2022-10-12 17:06:54.835] [sharedprocess] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-10-12 17:06:55.251] [sharedprocess] [info] Getting Manifest... twxs.cmake
+[2022-10-12 17:06:55.547] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools-themes
+[2022-10-12 17:06:56.395] [sharedprocess] [info] Installing extension: ms-vscode.cmake-tools ms-vscode.cpptools-extension-pack
+[2022-10-12 17:06:56.404] [sharedprocess] [info] Installing extension: twxs.cmake ms-vscode.cpptools-extension-pack
+[2022-10-12 17:06:56.405] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-themes ms-vscode.cpptools-extension-pack
+[2022-10-12 17:06:58.356] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-themes /home/liaml/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-themes-1.0.0
+[2022-10-12 17:06:58.422] [sharedprocess] [info] Downloaded extension: ms-vscode.cmake-tools /home/liaml/.config/Code/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.12.27
+[2022-10-12 17:06:58.791] [sharedprocess] [info] Downloaded extension: twxs.cmake /home/liaml/.config/Code/CachedExtensionVSIXs/twxs.cmake-0.0.17
+[2022-10-12 17:06:58.915] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.f0581d30-e907-4866-b282-76fffa6e0986: ms-vscode.cpptools-themes
+[2022-10-12 17:06:58.995] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/ms-vscode.cpptools-themes-1.0.0
+[2022-10-12 17:06:59.038] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-themes
+[2022-10-12 17:07:03.200] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.97d60527-74c2-4c91-aee4-b56d36f73dff: twxs.cmake
+[2022-10-12 17:07:03.316] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/twxs.cmake-0.0.17
+[2022-10-12 17:07:03.359] [sharedprocess] [info] Extracting completed. twxs.cmake
+[2022-10-12 17:07:04.536] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.e40e3d1a-2cc6-4f0a-b91b-12633fedaec8: ms-vscode.cmake-tools
+[2022-10-12 17:07:04.692] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/ms-vscode.cmake-tools-1.12.27
+[2022-10-12 17:07:04.717] [sharedprocess] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-10-12 17:07:06.501] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-extension-pack /home/liaml/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-extension-pack-1.3.0
+[2022-10-12 17:07:06.560] [sharedprocess] [info] Extracted extension to /home/liaml/.vscode/extensions/.362049da-5216-48ce-8e4b-d5e6f22545b8: ms-vscode.cpptools-extension-pack
+[2022-10-12 17:07:06.611] [sharedprocess] [info] Renamed to /home/liaml/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.3.0
+[2022-10-12 17:07:06.622] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-extension-pack
+[2022-10-12 17:07:06.656] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-themes
+[2022-10-12 17:07:06.660] [sharedprocess] [info] Extension installed successfully: twxs.cmake
+[2022-10-12 17:07:06.664] [sharedprocess] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-10-12 17:07:06.668] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-extension-pack

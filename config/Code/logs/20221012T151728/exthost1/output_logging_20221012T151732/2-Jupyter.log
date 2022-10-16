@@ -1,0 +1,21 @@
+Visual Studio Code (1.72.1, undefined, desktop)
+Jupyter Extension Version: 2022.9.1202862440.
+Python Extension Version: 2022.16.0.
+No workspace folder opened.
+info 15:19:09.757: ZMQ install verified.
+info 15:19:10.255: LSP Notebooks experiment is enabled
+info 15:19:10.275: Process Execution: > jupyter notebook --version
+> jupyter notebook --version
+info 15:19:10.283: Process Execution: > jupyter lab --version
+> jupyter lab --version
+info 15:19:11.108: Got empty env vars with python /bin/python in 157ms
+info 15:19:11.108: Got env vars ourselves faster /bin/python with env var count 50 in 159ms
+info 15:19:11.124: Process Execution: > /bin/python -m pip list
+> /bin/python -m pip list
+info 17:06:11.199: Shutting down notebooks for 9a5eeab2-f805-4d31-96de-3964e1773c37
+info 17:06:11.200: Disposing HostJupyterExecution cf348801-32e1-4d9b-aa68-e20ee5069a52
+info 17:06:11.200: Disposing super HostJupyterExecution cf348801-32e1-4d9b-aa68-e20ee5069a52
+info 17:06:11.200: Disposing HostJupyterExecution cf348801-32e1-4d9b-aa68-e20ee5069a52
+info 17:06:11.200: Finished disposing HostJupyterExecution  cf348801-32e1-4d9b-aa68-e20ee5069a52
+info 17:06:11.225: Cleaning up server cache cf348801-32e1-4d9b-aa68-e20ee5069a52
+info 17:06:11.225: Finished disposing HostJupyterExecution  cf348801-32e1-4d9b-aa68-e20ee5069a52

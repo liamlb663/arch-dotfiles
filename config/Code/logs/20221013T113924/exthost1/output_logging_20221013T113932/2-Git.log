@@ -1,0 +1,17 @@
+[2022-10-13T15:39:35.252Z] Log level: Info
+[2022-10-13T15:39:35.381Z] [info] Validating found git in: git
+[2022-10-13T15:39:35.848Z] [info] Using git 2.38.0 from git
+[2022-10-13T15:39:35.922Z] > git rev-parse --show-toplevel [52ms]
+[2022-10-13T15:39:35.933Z] > git rev-parse --git-dir --git-common-dir [3ms]
+[2022-10-13T15:39:35.938Z] [info] Open repository: /home/liaml/Projects/stream
+[2022-10-13T15:39:36.032Z] > git status -z -uall [87ms]
+[2022-10-13T15:39:36.038Z] > git symbolic-ref --short HEAD [2ms]
+[2022-10-13T15:39:36.046Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+[2022-10-13T15:39:36.057Z] > git remote --verbose [3ms]
+[2022-10-13T15:39:36.057Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-10-13T15:39:36.136Z] > git config --get commit.template [71ms]
+[2022-10-13T15:39:36.143Z] > git status -z -uall [2ms]
+[2022-10-13T15:39:36.150Z] > git symbolic-ref --short HEAD [2ms]
+[2022-10-13T15:39:36.158Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+[2022-10-13T15:39:36.170Z] > git remote --verbose [4ms]
+[2022-10-13T15:39:36.171Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [9ms]

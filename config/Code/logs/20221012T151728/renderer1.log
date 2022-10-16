@@ -1,0 +1,5 @@
+[2022-10-12 15:57:17.395] [renderer1] [error] RequestService#request (browser) - error https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/cpptools/1.12.4/1661989688422/Microsoft.VisualStudio.Code.Manifest?targetPlatform=linux-x64 {}
+[2022-10-12 17:06:20.995] [renderer1] [error] [Extension Host] (node:191193) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-10-12 17:06:51.035] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}
+[2022-10-12 17:07:07.057] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.

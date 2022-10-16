@@ -1,0 +1,53 @@
+[2022-10-12 15:17:32.251] [exthost] [info] Extension host with pid 105420 started
+[2022-10-12 15:17:32.327] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-12 15:17:32.328] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-12 15:17:32.328] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-12 15:17:32.591] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-10-12 15:17:32.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-12 15:17:32.697] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-12 15:17:32.984] [exthost] [info] Eager extensions activated
+[2022-10-12 15:17:33.002] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-12 15:17:33.003] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-12 15:17:33.074] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-10-12 15:19:08.987] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onWalkthrough:jupyterWelcome'
+[2022-10-12 15:19:08.988] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onWalkthrough:pythonWelcome'
+[2022-10-12 15:19:10.332] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-10-12 17:06:11.172] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-12 17:06:11.235] [exthost] [error] Error: read ECONNRESET
+	at Pipe.onStreamRead (node:internal/stream_base_commons:217:20)
+[2022-10-12 17:06:11.241] [exthost] [info] Extension host with pid 105420 exiting with code 0
+[2022-10-12 17:06:14.060] [exthost] [info] Extension host with pid 191193 started
+[2022-10-12 17:06:14.060] [exthost] [info] Skipping acquiring lock for /home/liaml/.config/Code/User/workspaceStorage/0e03e534c3193d089dbb95c1a1daac8f.
+[2022-10-12 17:06:14.200] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-10-12 17:06:14.200] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-12 17:06:14.201] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+[2022-10-12 17:06:14.201] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-12 17:06:14.286] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-12 17:06:14.295] [exthost] [info] Eager extensions activated
+[2022-10-12 17:06:14.300] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-12 17:06:14.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-10-12 17:06:14.332] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-10-12 17:06:16.858] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+[2022-10-12 17:06:19.821] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+[2022-10-12 17:07:29.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+[2022-10-12 17:07:38.207] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt, startup: false, activationEvent: 'onTaskType:grunt'
+[2022-10-12 17:07:38.208] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp, startup: false, activationEvent: 'onTaskType:gulp'
+[2022-10-12 17:07:38.208] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake, startup: false, activationEvent: 'onTaskType:jake'
+[2022-10-12 17:07:38.208] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTaskType:npm'
+[2022-10-12 17:07:38.208] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onTaskType:typescript'
+[2022-10-12 17:20:05.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-12 17:20:05.695] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-10-12 17:21:51.797] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-10-12 17:21:51.967] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2022-10-12 17:21:51.967] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/home/liaml/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:53227:27)
+	at Object.dispose (/home/liaml/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56788:35)
+	at /home/liaml/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56235:28
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-10-12 17:21:51.967] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2022-10-12 17:21:51.967] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/home/liaml/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:53227:27)
+	at Object.dispose (/home/liaml/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56788:35)
+	at /home/liaml/.vscode/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56235:28
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-10-12 17:21:51.968] [exthost] [info] Extension host with pid 191193 exiting with code 0

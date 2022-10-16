@@ -1,0 +1,66 @@
+[2022-10-13 11:39:32.868] [exthost] [info] Extension host with pid 36665 started
+[2022-10-13 11:39:32.868] [exthost] [info] Skipping acquiring lock for /home/liaml/.config/Code/User/workspaceStorage/0e03e534c3193d089dbb95c1a1daac8f.
+[2022-10-13 11:39:33.114] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+[2022-10-13 11:39:33.115] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-10-13 11:39:33.115] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-10-13 11:39:33.115] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-10-13 11:39:33.115] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-10-13 11:39:34.397] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-10-13 11:39:34.397] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-10-13 11:39:35.533] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-10-13 11:39:35.827] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-10-13 11:39:35.878] [exthost] [info] Eager extensions activated
+[2022-10-13 11:39:35.880] [exthost] [error] Activating extension vscode.emmet failed due to an error:
+[2022-10-13 11:39:35.880] [exthost] [error] Canceled: Canceled
+	at new C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:90699)
+	at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:13737)
+	at A.<computed>.z.charCodeAt.A.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:10292)
+	at p._activateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13844)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:9870)
+	at E._activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:8208)
+	at E._waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:8144)
+	at E._initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:7508)
+	at new E (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:7398)
+	at T._createAndSaveOperation (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:6932)
+	at T._handleActivationRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:6843)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:5284
+	at Array.map (<anonymous>)
+	at T._activateExtensions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:5272)
+	at T.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:5148)
+	at p._activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:11926)
+	at p._activateOneStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:17915)
+	at p._activateAllStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:18296)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:18794
+[2022-10-13 11:39:35.881] [exthost] [error] Activating extension vscode.merge-conflict failed due to an error:
+[2022-10-13 11:39:35.881] [exthost] [error] Canceled: Canceled
+	at new C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:90699)
+	at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:13737)
+	at A.<computed>.z.charCodeAt.A.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:10292)
+	at p._activateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13844)
+	at Object.actualActivateExtension (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:9870)
+	at E._activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:8208)
+	at E._waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:8144)
+	at E._initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:7508)
+	at new E (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:7398)
+	at T._createAndSaveOperation (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:6932)
+	at T._handleActivationRequest (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:6843)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:5284
+	at Array.map (<anonymous>)
+	at T._activateExtensions (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:5272)
+	at T.activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:5148)
+	at p._activateById (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:11926)
+	at p._activateOneStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:17915)
+	at p._activateAllStartupFinished (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:18296)
+	at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:18794
+[2022-10-13 11:39:35.898] [exthost] [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at new C (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:90:90699)
+	at i._remoteCall (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:13737)
+	at A.<computed>.z.charCodeAt.A.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:100:10292)
+	at N.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:22643)
+	at Object.resolveProxy (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:62433)
+	at useProxySettings (/opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:159:16)
+	at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:107:13
+	at /opt/visual-studio-code/resources/app/node_modules.asar/vscode-proxy-agent/out/index.js:336:13
+	at process.processTicksAndRejections (node:internal/process/task_queues:96:5) 
+[2022-10-13 11:39:36.109] [exthost] [warning] DiagnosticCollection with name '/home/liaml/Projects/stream' does already exist.
+[2022-10-13 11:39:36.177] [exthost] [info] Extension host with pid 36665 exiting with code 0

@@ -1,0 +1,6 @@
+[2022-10-13 17:22:00.409] [main] [info] update#setState idle
+[2022-10-13 17:22:01.867] [main] [info] Starting extension host with pid 330267 (fork() took 51 ms).
+[2022-10-13 17:22:30.413] [main] [info] update#setState checking for updates
+[2022-10-13 17:22:30.425] [main] [info] update#setState available for download
+[2022-10-13 17:51:49.784] [main] [info] Waiting for extension host with pid 330267 to exit.
+[2022-10-13 17:51:49.918] [main] [info] Extension host with pid 330267 exited with code: 0, signal: null.
